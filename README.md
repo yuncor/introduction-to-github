@@ -17,7 +17,7 @@ _Create a GitHub Action and use it in a workflow._
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
 -->
-
+:)
 <!--step0
 
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
